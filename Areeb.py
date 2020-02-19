@@ -57,7 +57,7 @@ logo = """  ____  _            _      _   _       _
 \033[1;96mAuthor  \033[1;93m: \033[1;92mAreeb
 \033[1;96mInstagram \033[1;93m: \033[1;92mhttps://www.Instagram.com/Am.d3v1l
 \033[1;96mFacebook  \033[1;93m: \033[1;92mhttps://www.fb.com/Areeb.The.Redhat.Hacker
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/Omi6t
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/redhat009
 \033[1;91m======================================="""
 
 def tik():
@@ -81,7 +81,7 @@ print  """\033[1;91m=======================================
 \033[1;96mAuthor  \033[1;93m: \033[1;92mOmi Chaudhary
 \033[1;96mInstagram \033[1;93m: \033[1;92mhttps://www.Instagram.com/Am.d3v1l
 \033[1;96mFacebook  \033[1;93m: \033[1;92mhttps://www.Fb.com/Areeb.The.Redhat.Hacker
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://Github.com/Omi6t
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://Github.com/redhat009
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
 
