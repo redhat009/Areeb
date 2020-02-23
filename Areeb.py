@@ -79,7 +79,7 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print "\033[1;96m ============================================================="
 print  """\033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92mOmi Chaudhary
+\033[1;96mAuthor  \033[1;93m: \033[1;92mAreeb
 \033[1;96mInstagram \033[1;93m: \033[1;92mhttps://www.Instagram.com/Am.d3v1l
 \033[1;96mFacebook  \033[1;93m: \033[1;92mhttps://www.Fb.com/Areeb.The.Redhat.Hacker
 \033[1;96mGithub \033[1;93m: \033[1;92mhttps://Github.com/redhat009
